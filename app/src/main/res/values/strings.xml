@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Salmos Diarios</string>
+    <string name="button_title">Pegar Versiculo</string>
+    <string name="text_exemple">\n\n\n\n\n\n\nVeja qual o versiculo de Salmos para você.</string>
+</resources>
